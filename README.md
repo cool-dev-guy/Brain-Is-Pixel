@@ -1,5 +1,5 @@
 # Brain-Is-Pixel
-BIP-Brain-Is-Pixel(An interface to code using mspaint &amp; other rastor softwares by using brainf**k language.
+BIP-Brain-Is-Pixel(An Compiler interface to code using mspaint &amp; other rastor softwares by using bfi module.
 `Made in python`
 
 ### Programming
