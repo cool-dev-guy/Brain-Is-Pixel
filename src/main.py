@@ -3,7 +3,7 @@ try:
   import bfi
   import sys
 except:
-  print('Intsall Dependencies')
+  print('Install Dependencies')
 class Compiler:
   def __init__(self):
     self.code = ''
