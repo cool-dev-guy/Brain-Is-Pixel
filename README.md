@@ -29,7 +29,7 @@ BIP-Brain-Is-Pixel(An Compiler interface to code using mspaint &amp; other rasto
   | (128, 0, 128)   |   ']'  |
   
   **Use Corresponding colours as the source code given above to program.**
-  - Save your image in `.png`(currently only texted with `.png`)
+  - Save your image in `.png`(currently only tested with `.png`)
 ### Compiling
 - Download the source.
 - open `cmd/terminal` and run:
